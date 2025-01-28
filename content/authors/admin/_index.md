@@ -25,7 +25,7 @@ status:
   icon: ☕️
 last_name: AI
 title: Chris AI
-role: Professor of Artificial Intelligence
+role: Loves Artificial Intelligence
 highlight_name: true
 first_name: Chris
 website: ""
