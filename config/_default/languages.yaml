@@ -20,3 +20,9 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+# Uncomment options below to use them.
+extensions:
+  decap_cms:
+    branch: main
+#     publish_mode: editorial_workflow
+#     local_backend: true
